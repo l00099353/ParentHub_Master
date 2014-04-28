@@ -1,0 +1,29 @@
+
+/////////////////////////////
+nav{
+width: 30%;
+padding: 2% 0%;
+float: left
+}
+
+nav
+{
+display:block;
+width:200px;
+margin: 10px;
+height: 500px;
+}
+
+///////////////////////////
+
+width: 31%;
+margin: 1px;
+padding: 2% 0%;
+/////////////////////////
+div.mynav {
+display:block;
+width: 31%;
+margin: 0;
+padding: 2% 0%;
+float: left
+}
